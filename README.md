@@ -15,24 +15,10 @@ Remoção de personagens quando a vida atinge 0.
 Testes Automatizados:
 Cobertura de funcionalidades principais usando unittest.
 
-Estrutura do Projeto
-
-jogo_poo/
-├── src/
-│   ├── __init__.py
-│   ├── personagens.py
-│   └── jogo.py
-├── tests/
-│   ├── __init__.py
-│   ├── test_personagens.py
-│   └── test_jogo.py
-├── README.md
-
 Instalação
 Requisitos
 Python 3.8 ou superior
 
-Passos
 Clone o Repositório
 
 git clone https://github.com/seu_usuario/jogo_poo.git
