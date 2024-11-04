@@ -1,6 +1,7 @@
 # Jogo de Batalha POO
 
-**Jogo de Batalha POO** é um jogo simples desenvolvido em Python que demonstra os conceitos de Programação Orientada a Objetos (POO). Os jogadores controlam personagens que lutam contra inimigos, utilizando atributos como vida, ataque e habilidades especiais. O objetivo é derrotar todos os inimigos antes que sejam derrotados.
+**Descrição**  
+Jogo de Batalha POO é um jogo simples desenvolvido em Python que demonstra os conceitos de Programação Orientada a Objetos (POO). Os jogadores controlam personagens que lutam contra inimigos, utilizando atributos como vida, ataque e habilidades especiais. O objetivo é derrotar todos os inimigos antes que sejam derrotados.
 
 ## Funcionalidades
 
@@ -14,16 +15,24 @@
 - **Encapsulamento**: Uso de getters e setters para proteger os atributos.
 
 ### Lógica de Batalha
-- Turnos alternados entre jogadores e inimigos.
-- Remoção de personagens quando a vida atinge 0.
+- **Turnos alternados** entre jogadores e inimigos.
+- **Remoção de personagens** quando a vida atinge 0.
 
 ### Testes Automatizados
-- Cobertura de funcionalidades principais usando `unittest`.
+- **Cobertura de funcionalidades principais** usando `unittest`.
+
+## Tecnologias Utilizadas 🛠️
+
+<p>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Logo" width="40" height="40"/>
+</p>
+
+- **Python 3.8 ou superior**
 
 ## Instalação
 
 ### Requisitos
-- Python 3.8 ou superior
+- **Python 3.8** ou superior
 
 ### Clone o Repositório
 ```bash
