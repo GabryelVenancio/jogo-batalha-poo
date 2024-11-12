@@ -15,19 +15,6 @@ Remoção de personagens quando a vida atinge 0.
 Testes Automatizados:
 Cobertura de funcionalidades principais usando unittest.
 
-Estrutura do Projeto
-
-jogo_poo/
-├── src/
-│   ├── __init__.py
-│   ├── personagens.py
-│   └── jogo.py
-├── tests/
-│   ├── __init__.py
-│   ├── test_personagens.py
-│   └── test_jogo.py
-├── README.md
-
 Instalação
 Requisitos
 Python 3.8 ou superior
@@ -85,6 +72,7 @@ python -m unittest discover -s tests
 no Windows, se estiver usando o lançador py:
 
 py -m unittest discover -s tests
+
 Estrutura dos Testes
 tests/test_personagens.py: Testes para as classes de personagens.
 tests/test_jogo.py: Testes para a lógica do jogo.
@@ -101,7 +89,3 @@ Contato
 Desenvolvedor: Gabryel Venâncio
 Email: gabrielvenanciocleffs@gmail.com
 GitHub: https://github.com/GabryelVenancio
-
-Notas Finais
-Atualizações Recentes:
-Correção no Método iniciar(): Agora, o método remove jogadores com vida <= 0 antes de iniciar a batalha, garantindo que testes como test_iniciar_jogo_vitoria_inimigos passem corretamente.
