@@ -5,11 +5,11 @@ Jogo de Batalha POO é um jogo simples desenvolvido em Python que demonstra os c
 
 ## Funcionalidades
 
-<<<<<<< HEAD
+
 Instalação
 Requisitos
 Python 3.8 ou superior
-=======
+
 ### Classes e Objetos
 - **Personagem**: Classe base para todos os personagens.
 - **Guerreiro**, **Mago**, **Inimigo**: Classes derivadas com atributos e métodos específicos.
@@ -42,7 +42,6 @@ Python 3.8 ou superior
 ### Clone o Repositório
 ```bash
 git clone https://github.com/seu_usuario/jogo_poo.git
-<<<<<<< HEAD
 cd jogo_poo
 
 Crie e Ative um Ambiente Virtual
