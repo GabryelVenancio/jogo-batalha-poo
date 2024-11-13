@@ -42,6 +42,7 @@ Python 3.8 ou superior
 ### Clone o Repositório
 ```bash
 git clone https://github.com/seu_usuario/jogo_poo.git
+
 cd jogo_poo
 
 Crie e Ative um Ambiente Virtual
@@ -85,6 +86,8 @@ Jogadores Vencem: Quando todos os inimigos são derrotados.
 Inimigos Vencem: Quando todos os jogadores são derrotados.
 
 Testes
+
+py main.py
 
 python -m unittest discover -s tests
 
